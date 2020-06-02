@@ -1,2 +1,7 @@
 # Black_TFT_Theme
 A cool and simple black icon theme for BigTreeTech TFT displays. Full credit goes to u/Easy_Toast on reddit and check out his website at www.Sknight.cc. Maybe tip him a beer while you're there? This is just an updated version of his original design from his reddit post so that it is compatible with the latest version as of this repository's creation. I will try to continue to update this for as long as I'm using the theme.
+
+INSTRUCTIONS:
+Unzip the file using whatever program you like and make sure the folder is called "bmp" (without the quotation marks) and that it looks like it has all the files in it. From there you put the "bmp" folder into a new folder called TFT35 (you might have a different type of TFT than the 35 but I can't guarentee it'll work with anything other than the TFT35 or TFT35 E3) from there you called add the "font" folder from the bigtreetech touchscreen firmware repository located here https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/tree/master/Copy%20to%20SD%20Card%20root%20directory%20to%20update%20-%20Unified%20Menu%20Material%20theme/TFT35 (THIS STEP IS NOT NECCESARY UNLESS YOU ARE DOING A FULL FIRMWARE UPDATE AS WELL you only need to have "bmp" in the "TFT35" folder and power cycle for the textures to change.
+
+PLEASE NOTE THAT I TAKE NO RESPONSABILITY FOR ANY GLITCHES, ERRORS, INCOMPATABILITY ISSUES, OR BRICKED LCDS. (although bricking your lcd is very unlikely) I AM JUST TRYING TO UPDATE THIS PACK SO IT CAN COUNTINUE WORKING IN THE FUTURE AND I HAVE NO REAL IDEA OF WHAT I'M DOING.
